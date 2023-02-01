@@ -1,9 +1,8 @@
 {
-  "name": "intro-to-ts",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "main": "src/main.ts",
   "scripts": {
-    "dev": "nodemon src/main.ts",
+    "start": "nodemon",
     "build": "tsc src/main.ts --pretty --outdir dist"
   },
   "dependencies": {
