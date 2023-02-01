@@ -14,7 +14,7 @@ npx degit metruzanca/ts-lite-node <project name>
 
 2. Install dependencies with your package manager of choice
 
-```
+```bash
 npm i # or pnpm i, yarn
 ```
 
