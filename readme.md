@@ -2,7 +2,7 @@
 
 A beginner template for using nodejs with typescript.
 
-The typescript config is super lenient, allowing implicit anys and javascript files. Typescript will still encorage types to be used and will only enforce them when necessary for safe transpilation.
+The typescript config is super lenient, allowing implicit anys which makes converting `.js` files to `.ts` less daunting. Typescript will still encorage types to be used and will only enforce them when necessary for safe transpilation.
 
 ## Usage
 
